@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # AgentProof AI — Setup Guide
 
 **Don't Just Compare AI Agents. Verify Their Answers.**
